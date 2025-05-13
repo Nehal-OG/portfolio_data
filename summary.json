@@ -21,11 +21,11 @@
     }
   ],
   "techStackIcons": [
-    "flutter.jpeg",
-    "dart.jpeg",
-    "firebase.jpeg",
-    "github.jpeg",
-    "restapi.jpeg"
+    "https://raw.githubusercontent.com/Nehal-OG/portfolio_data/main/assets/image/icons/flutter.png",
+    "https://raw.githubusercontent.com/Nehal-OG/portfolio_data/main/assets/image/icons/dart.png",
+    "https://raw.githubusercontent.com/Nehal-OG/portfolio_data/main/assets/image/icons/firebase.png",
+    "https://raw.githubusercontent.com/Nehal-OG/portfolio_data/main/assets/image/icons/github.png",
+    "https://raw.githubusercontent.com/Nehal-OG/portfolio_data/main/assets/image/icons/restapi.png"
   ],
   "resumeUrl": "https://yourdomain.com/resume.pdf",
   "socialLinks": {
